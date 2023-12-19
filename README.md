@@ -1,0 +1,2 @@
+# Django-Project
+app yaratish 
